@@ -20,4 +20,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sangeeta2003&show_icons=true&locale=en" alt="sangeeta2003" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sangeeta2003&" alt="sangeeta2003" /></p>
-<figure><embed src="https://wakatime.com/share/@018b6a55-de24-4e4f-b22c-1b0a21f63c13/d1eb9a05-5cfa-4c02-b556-7ce8f716846e.svg"></embed></figure>
