@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sangeeta</h1>
-<h3 align="center">,a software Engineer.</h3>
+<h3 align="center">A software Engineer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sangeeta2003&label=Profile%20views&color=0e75b6&style=flat" alt="sangeeta2003" /> </p>
 
