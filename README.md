@@ -1,5 +1,4 @@
-<img src="![image](https://github.com/sangeeta2003/sangeeta2003/assets/121925088/e64f2811-e321-45b7-91e7-18ceda659028)
-" width=1500px height="200px">
+<img src="LQnX59nHBsOV.gif" width=1500px height="200px">
 <h1 align="center">Hi 👋, I'm Sangeeta</h1>
 <h3 align="center">A software Engineer.</h3>
 
