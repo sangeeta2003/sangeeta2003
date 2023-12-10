@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/san_mishra1234" target="blank"><img src="https://img.shields.io/twitter/follow/san_mishra1234?logo=twitter&style=for-the-badge" alt="san_mishra1234" /></a> </p>
 
-- 🌱 I’m currently learning **ReactJs**
+- 🌱 I’m currently learning **Next Js**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
