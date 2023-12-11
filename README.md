@@ -2,7 +2,7 @@
 <!-- <p align="right"> <img src="me.gif" alt="count" />  -->
 <h1 align="center">Hi 👋, I'm Sangeeta</h1>
 <h3 align="center">A software Engineer.</h3>
-<img align="right" alt="Coding" width="400" src="me.gif">
+<img align="right" alt="Coding" width="400" src="code.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sangeeta2003&label=Profile%20views&color=0e75b6&style=flat" alt="sangeeta2003" /> </p>
 
 <p align="left"> <a href="https://twitter.com/san_mishra1234" target="blank"><img src="https://img.shields.io/twitter/follow/san_mishra1234?logo=twitter&style=for-the-badge" alt="san_mishra1234" /></a> </p>
