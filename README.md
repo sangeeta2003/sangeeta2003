@@ -1,4 +1,5 @@
 <img src="LQnX59nHBsOV.gif" width=1500px height="200px">
+<img src="bgc.banner"width=1500px height="400px">
 <!-- <p align="right"> <img src="me.gif" alt="count" />  -->
 <h1 align="center">Hi 👋, I'm Sangeeta</h1>
 <h3 align="center">A software Engineer.</h3>
