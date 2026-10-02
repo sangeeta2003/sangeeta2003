@@ -8,9 +8,7 @@
 
 <img align="right" alt="Coding" width="400" src="me.gif">
 
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=sangeeta2003&label=Profile%20views&color=0e75b6&style=flat" alt="sangeeta2003" />
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sangeeta2003&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> <img src="https://wakatime.com/badge/user/018b6a55-de24-4e4f-b22c-1b0a21f63c13.svg" alt="WakaTime" /> </p>
 
 * 🔭 I’m currently working on **Personal Projects**
 
